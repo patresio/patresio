@@ -3,9 +3,17 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ricardo Pereira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patresio&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Developer Jr. Python & Instructor focused on helping people start programming 
+- :beginner: Developer Jr. Python
+
+- :technologist: WebScrapping
+
+- :robot: process automation in python
 
 - 💬 Ask me about **HTML, CSS, SQL, Python, Selenium, PySimpleGUI**
+
+- :brazil: :earth_americas:
+
+- :soccer: :basketball: :game_die:
 
 <br><br>
 
