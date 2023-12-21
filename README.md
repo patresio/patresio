@@ -4,14 +4,6 @@
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Django to frontend development using Angular, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=60% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patresio&show_icons=true&locale=en&theme=radical&layout=compact" alt="patresio" />
-<img width=60% align="center" src="https://github-readme-stats.vercel.app/api?username=patresio&show_icons=true&locale=en&theme=radical&layout=compact" alt="patresio" />
-<img width=60% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=patresio&theme=radical&mode=weekly" />
-
-
- </div>
- 
  &nbsp;
  &nbsp;
 
@@ -56,7 +48,7 @@
 &nbsp;
 &nbsp;
 
-## Contacts:
+## Contacts
 
 <div> 
 <a href="https://linkedin.com/in/patresio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patresio" height="30" width="40" /></a>
@@ -64,8 +56,13 @@
 <a href="https://instagram.com/patresio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patresio" height="30" width="40" /></a>
 <a href="https://discord.gg/patresio#5679" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="patresio" height="30" width="40" /></a>
 </div>&nbsp;&nbsp;
- 
 
+ ## Github
+<div  align="center" style="margin-bottom:100px">
+<img width=60% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patresio&show_icons=true&locale=en&theme=radical&layout=compact" alt="patresio" />
+<img width=60% align="center" src="https://github-readme-stats.vercel.app/api?username=patresio&show_icons=true&locale=en&theme=radical&layout=compact" alt="patresio" />
+<img width=60% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=patresio&theme=radical&mode=weekly" />
+ </div>
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
