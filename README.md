@@ -5,9 +5,10 @@
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Django to frontend development using Angular, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patresio&show_icons=true&locale=en&layout=compact" alt="patresio" /></p>
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=patresio&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-patresio.vercel.app/api/top-langs/?username=patresio&show_icons=true&theme=radical&layout=compact" />
+<img width=25% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patresio&show_icons=true&locale=en&theme=radical&layout=compact" alt="patresio" />
+<img width=40% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=patresio&theme=radical&mode=weekly" />
+<img width=30% align="center" src="https://github-readme-stats.vercel.app/api?username=patresio&show_icons=true&locale=en&theme=radical&layout=compact" alt="patresio" />
+
  </div>
  
  &nbsp;
@@ -67,12 +68,4 @@
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
-
-
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patresio&show_icons=true&locale=en" alt="patresio" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patresio&" alt="patresio" /></p>
 
