@@ -1,10 +1,11 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/patresio/patresio/blob/main/topo.png" />
+# Hi, my name is Ricardo Luis Barbosa Pereira 👨‍💻
+
+#### codename: Patrese
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Django or NestJS, to frontend development using React, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>
-
-
+<p>Aqui você encontrará um pouco dos meus projetos. Seja bem vindo!</p>
+<hr />
 
 ## My Skills
 
